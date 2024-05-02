@@ -1,0 +1,174 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "full"
+                  }
+                }
+              ],
+              "count": 4.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "es_en_ws"
+                  }
+                }
+              ],
+              "count": 3.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "es_en_wn"
+                  }
+                }
+              ],
+              "count": 3.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "es_ws_wn"
+                  }
+                }
+              ],
+              "count": 3.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "en_ws_wn"
+                  }
+                }
+              ],
+              "count": 3.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "es_en"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "es_ws"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "es_wn"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "en_ws"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "en_wn"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "add": false,
+              "conditions": [
+                {
+                  "block": "ds_random_stuff:oak_pillar",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "type": "ws_wn"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ],
+          "name": "ds_random_stuff:oak_pillar"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

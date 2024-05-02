@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "type=en": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 0,
+      "uvlock": true
+    },
+    "type=es": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 90,
+      "uvlock": true
+    },
+    "type=wn": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 270,
+      "uvlock": true
+    },
+    "type=ws": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 180,
+      "uvlock": true
+    }
+  }
+}

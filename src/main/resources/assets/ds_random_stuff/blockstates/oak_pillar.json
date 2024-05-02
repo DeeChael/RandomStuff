@@ -1,0 +1,77 @@
+{
+  "variants": {
+    "type=en": {
+      "model": "ds_random_stuff:block/oak_pillar",
+      "y": 0,
+      "uvlock": true
+    },
+    "type=es": {
+      "model": "ds_random_stuff:block/oak_pillar",
+      "y": 90,
+      "uvlock": true
+    },
+    "type=wn": {
+      "model": "ds_random_stuff:block/oak_pillar",
+      "y": 270,
+      "uvlock": true
+    },
+    "type=ws": {
+      "model": "ds_random_stuff:block/oak_pillar",
+      "y": 180,
+      "uvlock": true
+    },
+    "type=es_en": {
+      "model": "ds_random_stuff:block/oak_vertical_slab",
+      "y": 0,
+      "uvlock": true
+    },
+    "type=ws_wn": {
+      "model": "ds_random_stuff:block/oak_vertical_slab",
+      "y": 180,
+      "uvlock": true
+    },
+    "type=en_wn": {
+      "model": "ds_random_stuff:block/oak_vertical_slab",
+      "y": 270,
+      "uvlock": true
+    },
+    "type=es_ws": {
+      "model": "ds_random_stuff:block/oak_vertical_slab",
+      "y": 90,
+      "uvlock": true
+    },
+    "type=en_ws": {
+      "model": "ds_random_stuff:block/oak_pillar_cross",
+      "y": 0,
+      "uvlock": true
+    },
+    "type=es_wn": {
+      "model": "ds_random_stuff:block/oak_pillar_cross",
+      "y": 90,
+      "uvlock": true
+    },
+    "type=es_en_wn": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 0,
+      "uvlock": true
+    },
+    "type=es_en_ws": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 90,
+      "uvlock": true
+    },
+    "type=en_ws_wn": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 270,
+      "uvlock": true
+    },
+    "type=es_ws_wn": {
+      "model": "ds_random_stuff:block/oak_corner",
+      "y": 180,
+      "uvlock": true
+    },
+    "type=full": {
+      "model": "minecraft:block/oak_planks"
+    }
+  }
+}
